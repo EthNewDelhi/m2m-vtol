@@ -1,0 +1,14 @@
+{
+  "name": "m2m-vtol",
+  "version": "0.0.1",
+  "description": "machine to machine micropayments using ethereum state channel architecture",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Vyom Sharma (@vyomshm)",
+  "license": "Apache-2.0"
+}
